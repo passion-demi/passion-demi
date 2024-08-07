@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack
 
 I'm currently enhancing my skills in cloud-native development and exploring the exciting world of machine learning and data science.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-
 ## 📫 How to Reach Me
 
 - Email: [youremail@example.com](mailto:youremail@example.com)
