@@ -1,4 +1,4 @@
-# Hi there, I'm passionative developer 👋
+# Hi there, I'm passionative Full-Stack Developer 👋
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack for building efficient and scalable web applications. I enjoy working with a variety of technologies and continually expanding my skills.
 
@@ -35,7 +35,5 @@ I occasionally write about technology and my development journey on [Your Blog/M
 - Collaborate with other developers on innovative projects.
 
 ## ⚡ Fun Fact
-
-When I'm not coding, you can find me [hobby or interest, e.g., hiking, playing guitar, etc.].
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech.
