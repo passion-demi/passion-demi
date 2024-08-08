@@ -16,13 +16,8 @@ I'm currently enhancing my skills in cloud-native development and exploring the 
 
 ## 📫 How to Reach Me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-
-## 📝 Blog & Writing
-
-I occasionally write about technology and my development journey on [Your Blog/Medium](https://yourblog.com).
+- Email: [youremail@example.com](mailto:w0645541@gmail.com)
+- Portfolio: [Your Portfolio Website](https://yourportfolio.com)(This is building...)
 
 ## 🎯 Goals
 
